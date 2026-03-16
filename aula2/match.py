@@ -18,6 +18,8 @@ match dia:
         print('sexta')
     case 7:
         print('sábado')
+    case 8:
+        print('dia novo')
     case _:
         print('valor indefinido')
 
