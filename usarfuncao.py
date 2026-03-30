@@ -1,0 +1,1 @@
+git commit -m "aula 4 - estrutura de repeticao com while, uso do try e funcoes"
