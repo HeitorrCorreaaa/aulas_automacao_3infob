@@ -1,0 +1,5 @@
+git add .
+git commit -m "escrevo qualquer merda"
+git push origin main
+
+open cv

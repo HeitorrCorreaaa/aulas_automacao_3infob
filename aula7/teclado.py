@@ -80,4 +80,3 @@ pyautogui.hotkey('ctrl', 'v')
 xy4 = pyautogui.locateCenterOnScreen('aula7\\enviar.png', confidence =0.95)
 
 pyautogui.click(xy4)
-
